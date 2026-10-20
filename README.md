@@ -1,0 +1,12 @@
+tutorial instalasi :
+- masuk ke terminal pada vps/desktop
+- jalankan perintah git clone https://github.com/Vinn-Hatoru/striming-anime.git
+- jalankan perintah npm install
+- setelah selesai lalu jalankan npm run dev
+- kemudian jalankan dengan npm start
+- jika sudah berjalan akan berjalan di
+- desktop : localhost3000
+- bila di vps akan berjalan di IP vps anda
+- jika instalasi sudah selesai maka web sudah siap di gunakan
+- 🚧 peringatan : secript ini hanya berjalan di region indonesia
+- instalasi selesai anda bisa melakukan pemasangan domain dan lain-lain dengan cara yang sama pada web pada umumnya
